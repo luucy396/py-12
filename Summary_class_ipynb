@@ -27,6 +27,27 @@
     },
     {
       "metadata": {
+        "id": "gvHLSHyDdDw3",
+        "colab_type": "toc"
+      },
+      "cell_type": "markdown",
+      "source": [
+        ">>[클래스(class)](#scrollTo=zfaLPwEl-Z8P)\n",
+        "\n",
+        ">>>[파이썬 클래스는 class 키워드를 사용하여 자신만의 데이터타입을 만들 수 있음](#scrollTo=zfaLPwEl-Z8P)\n",
+        "\n",
+        ">>[예외처리(exception)](#scrollTo=X88tFplRSzt6)\n",
+        "\n",
+        ">>[with 구문](#scrollTo=HV6_zxVSTGLx)\n",
+        "\n",
+        ">>>[일반적으로 파일 또는 세션을 사용하는 순서](#scrollTo=HV6_zxVSTGLx)\n",
+        "\n",
+        ">>>[open() => read() 또는 write() => close()](#scrollTo=HV6_zxVSTGLx)\n",
+        "\n"
+      ]
+    },
+    {
+      "metadata": {
         "id": "zfaLPwEl-Z8P",
         "colab_type": "text"
       },
